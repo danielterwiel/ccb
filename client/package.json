@@ -1,11 +1,15 @@
 {
   "name": "ccb",
   "version": "0.1.0",
+  "description": "Little experiment for my cooking club (CCB) where every single member can adjust the taste of their meal",
+  "author": "Daniël Terwiel",
   "private": true,
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.3"
+    "react-scripts": "2.1.3",
+    "@material-ui/core": "3.9.0",
+    "@material-ui/icons": "3.0.2"
   },
   "scripts": {
     "start": "react-scripts start",

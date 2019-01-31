@@ -1,3 +1,10 @@
+html {
+  background: url(https://i0.wp.com/www.dubbelbourgondisch.nl/wp-content/uploads/2018/08/7527066816_IMG_1588.jpg)
+    no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -6,9 +13,4 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
 }
